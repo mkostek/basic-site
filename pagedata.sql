@@ -40,7 +40,7 @@ CREATE TABLE IF NOT EXISTS `pagedata` (
 --
 
 INSERT INTO `pagedata` (`id`, `title`, `page`, `text1`, `text2`) VALUES
-(1, 'Home page', 'home', 'kamil hepimizi sikerler', 'Lorem Ipsum, 500 yıl boyunca varlığını sürdürmekle kalmamış ve günümüzde elektronik yazı tipinin gerektiği birçok konuda hazır bir araç olarak kullanılmaya başlanmıştır. Lipsum 1960''larda içinde Lorem Ipsum paragraflarının bulunduğu letrasetlerin piyasaya çıkması ve 1990''larda Lorem Ipsum versiyonlarını içeren Aldus Pagemaker gibi programlarla beraber yaygın hale gelmiştir.'),
+(1, 'Home page', 'home', '', 'Lorem Ipsum, 500 yıl boyunca varlığını sürdürmekle kalmamış ve günümüzde elektronik yazı tipinin gerektiği birçok konuda hazır bir araç olarak kullanılmaya başlanmıştır. Lipsum 1960''larda içinde Lorem Ipsum paragraflarının bulunduğu letrasetlerin piyasaya çıkması ve 1990''larda Lorem Ipsum versiyonlarını içeren Aldus Pagemaker gibi programlarla beraber yaygın hale gelmiştir.'),
 (2, 'About page', 'about', 'hakkımdaki bilgileri burada bulabilirsiniz saygılar', 'hakkıdır hakka tapan milletlmin istiklal rampada geçme bei düzde ezerim seni');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
